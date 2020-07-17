@@ -31,7 +31,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-
+[![HitCount](http://hits.dwyl.com/emrekndl/opencvPython.svg)](http://hits.dwyl.com/emrekndl/opencvPython)
 
 
 
