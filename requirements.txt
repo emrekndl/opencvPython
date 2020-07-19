@@ -2,5 +2,6 @@ opencv-python
 numpy
 matplotlib
 mahotas
+imutils
 
 # pip install -r requirements.txt
