@@ -1,0 +1,5 @@
+opencv-python
+mahotas
+numpy
+scikit-learn
+joblib
