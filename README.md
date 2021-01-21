@@ -1,15 +1,18 @@
 ## Python OpenCV Examples
 
 
-![Screenshot](https://github.com/emrekndl/opencvPython/blob/master/screenShot1.png)
+![Screenshot](screenshots/screenShot1.png)
 ### -
-![Screenshot](https://github.com/emrekndl/opencvPython/blob/master/screenShot2.png)
+![Screenshot](screenshots/screenShot2.png)
 ### -
-![Screenshot](https://github.com/emrekndl/opencvPython/blob/master/screenShot3.png)
+![Screenshot](screenshots/screenShot3.png)
 ### -
-![Screenshot](https://github.com/emrekndl/opencvPython/blob/master/screenShot4.png)
+![Screenshot](screenshots/screenShot4.png)
 ### -
-![Screenshot](https://github.com/emrekndl/opencvPython/blob/master/screenShot5.png)
+![Screenshot](screenshots/screenShot5.png)
+### -
+![Screenshot](screenshots/screenShot6.png)
+
 
 ### Installing
 
