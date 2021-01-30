@@ -3,5 +3,8 @@ numpy
 matplotlib
 mahotas
 imutils
+pyzbar
+pyqrcode
+pypng
 
 # pip install -r requirements.txt

@@ -1,20 +1,14 @@
 ## Python OpenCV Examples
-
-
-![Screenshot](screenshots/screenShot1.png)
-### -
-![Screenshot](screenshots/screenShot2.png)
-### -
-![Screenshot](screenshots/screenShot3.png)
-### -
-![Screenshot](screenshots/screenShot4.png)
-### -
-![Screenshot](screenshots/screenShot5.png)
-### -
-![Screenshot](screenshots/screenShot6.png)
-### -
-![Screenshot](screenshots/screenShot7.png)
-
+<table>
+<tr><td>
+<img src="screenshots/screenShot1.png" width="800" height="200" alt=""></td><td>
+<img src="screenshots/screenShot3.png" width="800" height="200" alt=""></td><td>
+<img src="screenshots/screenShot5.png" width="800" height="200" alt=""></td></tr><tr><td>
+<img src="screenshots/screenShot2.png" width="800" height="200" alt=""></td><td>
+<img src="screenshots/screenShot6.png" width="800" height="200" alt=""></td><td>
+<img src="screenshots/screenShot7.png" width="800" height="200" alt=""></td>
+</tr>
+</table>
 
 
 ### Installing
@@ -39,13 +33,3 @@ pip install -r requirements.txt
 ```
 
 [![HitCount](http://hits.dwyl.com/emrekndl/opencvPython.svg)](http://hits.dwyl.com/emrekndl/opencvPython)
-
-
-
-
-
-
-
-
-
-
