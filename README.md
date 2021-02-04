@@ -7,6 +7,10 @@
 <img src="screenshots/screenShot2.png" width="800" height="200" alt=""></td><td>
 <img src="screenshots/screenShot6.png" width="800" height="200" alt=""></td><td>
 <img src="screenshots/screenShot7.png" width="800" height="200" alt=""></td>
+</tr><tr>
+<td></td><td>
+<img src="screenshots/screenShot4.gif">
+</td><td></td>
 </tr>
 </table>
 
